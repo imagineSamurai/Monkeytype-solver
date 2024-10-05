@@ -1,11 +1,13 @@
-# Monkeytype-bot
+# Monkeytype-bot ![Monkeytype](https://github.com/user-attachments/assets/05e17993-8918-406e-98c4-e57f5660b7ff)
+
+
 MonkeyType Automation Tool Overview: The MonkeyType Automation Tool is a Python-based application designed to enhance the typing experience on the MonkeyType website. This tool leverages Selenium and PyAutoGUI to automate the typing process, allowing users to practice their typing skills with ease and efficiency.
 
 
 
 
 
-#Here is the results
+# Here is the results
 
 
 
