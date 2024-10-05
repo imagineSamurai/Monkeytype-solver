@@ -34,7 +34,7 @@ MonkeyType Automation Tool Overview: The MonkeyType Automation Tool is a Python-
 
 
 
-### Steps to Follow
+# Steps to Follow
 
 - First install the chrome webdriver from [Chrome Driver](https://chromedriver.chromium.org/downloads) and ADD IT TO PATH .
 -  Download or clone my Repository to your device .
