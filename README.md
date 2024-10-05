@@ -1,4 +1,4 @@
-# Monkeytype-bot 
+# Monkeytype-solver 
 
 MonkeyType Automation Tool Overview: The MonkeyType Automation Tool is a Python-based application designed to enhance the typing experience on the MonkeyType website. This tool leverages Selenium and PyAutoGUI to automate the typing process, allowing users to practice their typing skills with ease and efficiency.
 
@@ -39,8 +39,8 @@ MonkeyType Automation Tool Overview: The MonkeyType Automation Tool is a Python-
 - First install the chrome webdriver from [Chrome Driver](https://chromedriver.chromium.org/downloads) and ADD IT TO PATH .
 -  Download or clone my Repository to your device .
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project) .
-- If there's some error in adding it ot the path then you can open `Monkeytype-bot.py` file and put your `chromedriver.exe` path . 
-- Just run `Monkeytype-bot.py` file .
+- If there's some error in adding it ot the path then you can open `Monkeytype-solver.py` file and put your `chromedriver.exe` path . 
+- Just run `Monkeytype-solver.py` file .
  
  
 - Its should start without asking you for login informations 
