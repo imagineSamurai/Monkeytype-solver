@@ -1,0 +1,2 @@
+Selenium (pip install selenium)
+PyAutoGUI (pip install pyautogui)
