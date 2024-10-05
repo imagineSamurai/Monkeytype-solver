@@ -16,7 +16,7 @@ MonkeyType Automation Tool Overview: The MonkeyType Automation Tool is a Python-
 
 
 
-or 
+### or 
 
 
 
@@ -41,11 +41,11 @@ or
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project) .
 - If there's some error in adding it ot the path then you can open `Monkeytype-bot.py` file and put your `chromedriver.exe` path . 
 - Just run `Monkeytype-bot.py` file .
+ 
+ 
+- Its should start without asking you for login informations 
 
 
-
-
-
-
+### Cridets For https://github.com/MusadiqPasha/MonkeyType-BOT/
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)          
